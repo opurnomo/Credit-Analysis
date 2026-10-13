@@ -2,6 +2,8 @@
 Credit research portfolio featuring Investment Grade, High Yield, and Distressed debt analyses.
 
 - Investment Grade: Paramount Skydance Corperation
+-  High Yield: MGM Resorts
+-  Distressed: Bausch Health Companies
 
 
 Each report may include:
